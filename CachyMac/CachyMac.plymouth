@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=CachyMac
+Description=Boot screen made in Alight Motion
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/CachyMac
+ScriptFile=/usr/share/plymouth/themes/CachyMac/CachyMac.script
