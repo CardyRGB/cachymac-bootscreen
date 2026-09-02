@@ -2,4 +2,6 @@
 
 
 This is a bootscreen for CachyOS made in Alight Motion, so you're not stuck with the boring, default CachyOS boot.
+
+
 -# it works with any arch based distro tho
